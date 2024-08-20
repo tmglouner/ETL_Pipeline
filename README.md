@@ -1,5 +1,4 @@
 # ETL_Pipeline
-This is a ETL Pipeline
 
 I Built an ETL (Extract/Transform/Load) pipeline to process sales data from multiple countries using Kaggle .csv files. </br>
 Used Python Flask for ingestion, Pandas for data manipulation, and NumPy for calculations. </br>
